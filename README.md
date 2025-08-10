@@ -2,7 +2,7 @@
 
 **Notemoire** is a blockchain-based, AI-powered note-sharing dApp designed for secure storage, smart summarization, and decentralized ownership of academic content. This platform empowers students and educators to create, share, and verify notes using Ethereum, IPFS, and AI tools.
 
-Live Project:https://notemoire-social-media.vercel.app/
+Live Project: https://notemoire-social-media.vercel.app/
 
 ---
 
