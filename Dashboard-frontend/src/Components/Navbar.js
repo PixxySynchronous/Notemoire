@@ -24,7 +24,7 @@ return (
           <Link className={`nav-link ${location.pathname === "/" ? "active" : ""}`} to="/">Home</Link>
         </li>
         <li>
-          <Link className={`nav-link ${location.pathname === "http://localhost:5000/" ? "active" : ""}`} to="http://localhost:5000/">NoteMoire</Link>
+          <Link className={`nav-link ${location.pathname === "https://notemoire-social-media.vercel.app/" ? "active" : ""}`} to="https://notemoire-social-media.vercel.app/">NoteMoire</Link>
         </li>
         <li>
           <Link className={`nav-link ${location.pathname === "/ai" ? "active" : ""}`} to="/ai">AI Enhancements</Link>

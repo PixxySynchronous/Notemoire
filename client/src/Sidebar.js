@@ -237,7 +237,7 @@ function Sidebar({ onNavigate, currentView }){
             className="sidebar__siv"
             variant="contained"
             disableElevation
-            onClick={() => window.location.href = 'http://localhost:4000/'}
+            onClick={() => window.location.href = 'https://notemoire.vercel.app/'}
             startIcon={<CreateIcon />}
           >
             Your Grimoire
